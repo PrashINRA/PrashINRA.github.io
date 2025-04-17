@@ -9,11 +9,10 @@
 locale                   : "en-US"
 title                    : "Data speak and DNA confesses"
 title_separator          : "-"
-name                     : &name "Ming Tang"
-description              : &description "Computational biologist in MD Anderson Cancer Center"
-url                      : https://crazyhottommy.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/crazyhottommy/crazyhottommy.github.io"
+name                     : &name "Prashant Singh"
+description              : &description "Computational Biologist at Amsterdam University Medical Cetre"
+url                      : "https://pure.amsterdamumc.nl/en/persons/prashant-singh"
+repository               : "https://github.com/PrashINRA?tab=repositories"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
