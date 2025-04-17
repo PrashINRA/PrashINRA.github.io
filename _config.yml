@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data speak and DNA confesses"
+title                    : "Torturing Data Since 2015"
 title_separator          : "-"
 name                     : &name "Prashant Singh"
-description              : &description "Computational Biologist at Amsterdam University Medical Cetre"
+description              : &description "Computational Biologist at Amsterdam University Medical Centre"
 url                      : "https://pure.amsterdamumc.nl/en/persons/prashant-singh"
 repository               : "https://github.com/PrashINRA?tab=repositories"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -51,21 +51,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : &twitter "tangming2005"
-facebook:
-  username               : 
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
 
 # Analytics
 analytics:
@@ -76,12 +61,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Ming Tang"
+  name             : "Dr. Prashant Singh"
   avatar           : "mingtang.png"
-  bio              : "Computational biologist in MD Anderson"
-  location         : "Houston, TX"
+  bio              : "Computational biologist at AUMC"
+  location         : "Amsterdam, NL"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=6uF4Sa8AAAAJ&hl=en"
+  googlescholar    : ""
   email            : 
   uri              : 
   bitbucket        :
@@ -90,19 +75,18 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "crazyhottommy"
+  github           : "prashinra"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0807-4314"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@tangming2005"
+  
   vine             :
   weibo            :
   xing             :
