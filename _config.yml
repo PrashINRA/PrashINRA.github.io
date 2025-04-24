@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Prashant Singh"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/M1.jpg"
+  bio    : "Computational Biologist(PhD). Working on data-driven drug discovery"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
